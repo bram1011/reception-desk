@@ -1,0 +1,9 @@
+This program was created by Bram Hampton for CS 315 with Dr. Finkel.
+
+Credit to the following web page for information on creating linked lists: https://www.codesdope.com/blog/article/c-linked-lists-in-c-singly-linked-list/
+
+Was used for syntax, etc.
+
+This program will simulate 10 seconds of a office. Reseeds a random number generator to produce different results each loop. Phone clients will interrupt door clients, and as such most door clients do not end up being served.
+
+No extra credit was attempted.
